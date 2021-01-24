@@ -1,2 +1,2 @@
 # coursera.files
-Coursera - Passed codes written by SAM
+Coursera - Passing Grade codes written by SAM
