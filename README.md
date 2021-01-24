@@ -1,2 +1,2 @@
 # coursera.files
-All of the passing Coursera content
+Coursera - Passed codes written by SAM
